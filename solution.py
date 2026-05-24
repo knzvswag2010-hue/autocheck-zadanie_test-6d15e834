@@ -1,7 +1,7 @@
 # Ваше решение здесь
 
 def main():
-    print(321)
+    print(123)
 
 if __name__ == "__main__":
     main()
